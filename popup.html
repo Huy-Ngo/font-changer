@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css"  media="screen,projection"/>
+		<style type="text/css" media="screen">
+			body {
+				width: 200px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<label for="bgrnd">Night mode</label>
+				<br>
+				<button class="col s6 waves-effect waves-dark btn white black-text" id="day" name="bgrnd" value="normal">
+					<i class="material-icons">brightness_5</i>
+					Day
+				</button>
+				<button class="col s6 waves-effect waves-light btn black white-text" id="night" name="bgrnd" value="night">
+					Night
+					<i class="material-icons">brightness_3</i>
+				</button>
+				<br>
+			</div>
+			<div class="row">
+				<button class="col s12 waves-effect waves-light btn" id="enlarge" value="enlarge"> Enlarge text </button>
+			</div>	
+		</div>
+		
+		<script src="popup.js"></script>
+		<script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+	</body>
+</html>
