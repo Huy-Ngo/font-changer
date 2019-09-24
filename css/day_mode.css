@@ -1,4 +1,14 @@
+/*
+ Font changer v1.0.0
+ Copyright 2019 Font changer
+ MIT License (https://raw.githubusercontent.com/Huy-Ngo/font-changer/master/LICENSE)
+*/
+
 * {
 	background-color: #fff !important;
 	color: #000 !important;
+}
+
+img {
+	opacity: 1 !important;
 }
