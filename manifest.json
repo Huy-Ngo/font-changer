@@ -6,7 +6,7 @@
 
 {
 	"name": "Page font customizer",
-	"version": "1.0",
+	"version": "1.0.1",
 	"description": "Customize font for easier reading",
 	"permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
 	"background": {
