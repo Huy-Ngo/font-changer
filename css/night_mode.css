@@ -9,6 +9,11 @@
 	color: #eee !important;
 }
 
+a {
+	color: deepskyblue !important;
+	text-decoration: underline !important;
+}
+
 img {
 	opacity: 1 !important;
 }

@@ -10,3 +10,8 @@ Yes, I know there are tons of other extensions out there, but I find them not fi
 4. Click the 3 buttons to enlarge font, switch to night mode or day mode. Refresh page to restore default styling.
 
 I do not ensure that all of these styling would fit any page.
+
+# Update log
+
+## Version 1.0.1 
+Update: Set the colors and underline for links (`<a></a>` tag) for night mode and day mode

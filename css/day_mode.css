@@ -9,6 +9,11 @@
 	color: #000 !important;
 }
 
+a {
+	color: firebrick !important;
+	text-decoration: underline !important;
+}
+
 img {
 	opacity: 1 !important;
 }
